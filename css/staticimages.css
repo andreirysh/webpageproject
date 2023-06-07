@@ -1,0 +1,91 @@
+.crypto-card {
+  background-repeat: no-repeat;
+  background-color: white;
+  background-position: top;
+}
+
+.bitcoin-image {
+  background-image: url('../images/bitcoin.svg');
+}
+
+.cardano-image {
+  background-image: url('../images/cardano.svg');
+}
+
+.dash-image {
+  background-image: url('../images/dash.svg');
+}
+
+.monero-image {
+  background-image: url('../images/monero.svg');
+}
+
+.tether-image {
+  background-image: url('../images/tether.svg');
+}
+
+.tron-image {
+  background-image: url('../images/tron.svg');
+}
+
+.eos-image {
+  background-image: url('../images/eos.svg');
+}
+
+.neo-image {
+  background-image: url('../images/neo.svg');
+}
+
+.doge-image {
+  background-image: url('../images/dogecoin.svg');
+}
+
+.eth-image {
+  background-image: url('../images/ethereum.svg');
+}
+
+.bnb-image {
+  background-image: url('../images/binance-logo.svg');
+}
+
+.ltc-image {
+  background-image: url('../images/litecoin.svg');
+}
+
+
+.binance-slilde {
+  background-image: url('../images/binance-usd-busd-logo.svg');
+}
+
+.ftx-slilde {
+  background-image: url('../images/ftx-token-ftt-logo.svg');
+}
+
+.boredape-slilde {
+  background-image: url('../images/apecoin-ape-ape-logo.svg');
+}
+
+.doge-slilde {
+  background-image: url('../images/dogecoin-doge-logo.svg');
+}
+
+.uniswap-slide {
+  background-image: url('../images/uniswap-uni-logo.svg');
+}
+
+.tezos-slide {
+  background-image: url('../images/tezos-xtz-logo.svg');
+}
+
+
+.affiliate-img-first {
+  background-image: url('../images/qtum-1.svg');
+}
+
+.affiliate-img-second {
+  background-image: url('../images/zsc-1.svg');
+}
+
+.affiliate-img-third {
+  background-image: url('../images/ethereum-gold.svg');
+}
